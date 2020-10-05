@@ -61,3 +61,20 @@ file structure:
 ### Adding a Status Badge
 
 [Status Badge documentation]( https://docs.netlify.com/monitor-sites/status-badges/)
+
+
+- presentation
+- using the plugin template
+  - log in build event
+  - use an input
+    - input as environment variable
+  - use a constant
+  - use a utility
+- create demo project (as little time as possible)
+  - test plugin locally w netlify dev
+  - publish example project & check logs
+- back to building the plugin
+  - utilites
+  - constants
+  - inputs
+
